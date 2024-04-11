@@ -1,4 +1,4 @@
-connection: "chronicle"
+connection: "2106_chronicle_bigquery_db"
 
 # include all the views
 include: "/views/**/*.view.lkml"
